@@ -1,8 +1,8 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
+  - title: "Enabling the synthesis of O3-type sodium anion-redox cathodes via atmosphere modulation"
+    authors: Qiu, Y., Liu, Q., Tao, J., Yan, P., Tan, G., Liu, F., Wang, D., Yu, N., Zhang, N., Yang, Y., Wang, W., Wang, Y., Cao, K., Wang, J.,* Lun, Z.* & Xu, C.*  
+    Journal: Nat. Commun. 16, 2343 (2025)
     conference: NeurIPS 2024 Datasets and Benchmarks Track.
     pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
     bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
